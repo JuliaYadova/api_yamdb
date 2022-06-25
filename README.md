@@ -5,7 +5,7 @@
 ### Запуск
 Клонируйте репозиторий
 ```
-    https://github.com/AlexKing777111/api_yamdb
+    https://github.com/JuliaYadova/api_yamdb
 ```
 Создайте и установите виртуальное окружение
 ```
